@@ -10,4 +10,3 @@ testfunction = function(X)
   return(y)
   
 }
-kk
