@@ -1,10 +1,13 @@
-Package: anRpackage
+Package: schistosomiasis
 Type: Package
-Title: What the package does (short line)
+Title: Predicting Cercarial Output
 Version: 1.0
-Date: 2016-03-31
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Date: 2016-04-26
+Author: Karena Nguyen
+Maintainer: <knguyen63@mail.usf.edu>
+Description: Functions for predicting the fraction of Biomphalaria glabrata snails that
+are releasing cercariae based on the death rate of uninfected, pre-patent, and shedding snails,
+in addition to pre-patent period as described by Anderson and May, 1979
+Parasitology Volume 79, pp. 63-94.
+License: GNU
 RoxygenNote: 5.0.1
