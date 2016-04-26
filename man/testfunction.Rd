@@ -7,7 +7,7 @@
 testfunction(X)
 }
 \arguments{
-\item{X}{numeric value}
+\item{X}{numeric value ##you need to have the variable first and then the description}
 }
 \value{
 X*X
@@ -15,3 +15,4 @@ X*X
 \description{
 this function does X*X
 }
+
