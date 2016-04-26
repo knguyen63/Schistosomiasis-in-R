@@ -1,4 +1,5 @@
 #' @title constant.f
+#' @description function allows users to calculate a constant for the equation derived by Anderson and May (1979)
 #' @param m death rate of uninfected and pre-patent snails, a numeric number or vector
 #' @param t pre-patent period, a numeric number or vector
 #' @return a numeric vector, the resulting constant for the main equation
