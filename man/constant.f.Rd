@@ -14,4 +14,7 @@ constant.f(m, t)
 \value{
 a numeric vector, the resulting constant for the main equation
 }
+\description{
+function allows users to calculate a constant for the equation derived by Anderson and May (1979)
+}
 

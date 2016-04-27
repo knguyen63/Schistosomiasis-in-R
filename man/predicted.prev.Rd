@@ -9,11 +9,14 @@ predicted.prev(f, m, d)
 \arguments{
 \item{f}{constant f obtained from a previous function, a numeric number or vector}
 
-\item{m}{death rate of uninfected and pre-patent snails, a numeric number or vector}
+\item{m}{death rate of uninfected and pre-patent snails (assumed to be equal), a numeric number or vector}
 
 \item{d}{death rate of shedding snails, a numeric number or vector}
 }
 \value{
 a numeric vector, the predicted prevalence of infection
+}
+\description{
+function provides users with a predicted prevalence of shedding snails
 }
 
