@@ -7,7 +7,7 @@
 
 predicted.prev <- function(f,m,d){
   
-  prevalence <- f/(f+((1-f)(d/m)))
+  prevalence <- f/(f+((1-f)*(d/m)))
   return(prevalence)
   
 }
