@@ -6,5 +6,5 @@ Date: 2016-04-26
 Author: Karena Nguyen
 Maintainer: <knguyen63@mail.usf.edu>
 Description: Functions for predicting the fraction of Biomphalaria glabrata snails that are releasing cercariae based on the death rate of uninfected, pre-patent, and shedding snails,in addition to pre-patent period as described by Anderson and May, 1979 Parasitology Volume 79, pp. 63-94.
-License: GNU
+License: GPL-2
 RoxygenNote: 5.0.1
